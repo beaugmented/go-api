@@ -3,8 +3,8 @@ package routes
 import (
 	"fmt"
 
-	"github.com/eyecuelab/go-api/cmd/api/handlers"
-	"github.com/eyecuelab/go-api/cmd/middleware"
+	"github.com/beaugmented/go-api/cmd/api/handlers"
+	"github.com/beaugmented/go-api/cmd/middleware"
 	"github.com/eyecuelab/kit/web"
 )
 

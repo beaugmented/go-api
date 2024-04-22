@@ -1,6 +1,6 @@
-# Go template API [![CircleCI](https://circleci.com/gh/eyecuelab/go-api/tree/main.svg?style=svg&circle-token=0788ba6ad5257362f3736f4546dd9dde43697bb7)](https://circleci.com/gh/eyecuelab/go-api/tree/main)
+# Go template API [![CircleCI](https://circleci.com/gh/beaugmented/go-api/tree/main.svg?style=svg&circle-token=0788ba6ad5257362f3736f4546dd9dde43697bb7)](https://circleci.com/gh/beaugmented/go-api/tree/main)
 
-Eyecue Lab golang api template, could serve as a starting point when developing a Web API.
+Augmented golang api template, could serve as a starting point when developing a Web API.
 
 ## Features
 

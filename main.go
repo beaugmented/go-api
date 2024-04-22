@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/eyecuelab/go-api/cmd"
+	"github.com/beaugmented/go-api/cmd"
 )
 
 func main() {

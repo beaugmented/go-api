@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/eyecuelab/go-api/version"
+	"github.com/beaugmented/go-api/version"
 	"github.com/eyecuelab/kit/web"
 )
 

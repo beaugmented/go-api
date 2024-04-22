@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/eyecuelab/go-api/internal/models"
+	"github.com/beaugmented/go-api/internal/models"
 	"github.com/eyecuelab/kit/web/meta"
 	"github.com/eyecuelab/kit/web/pagination"
 	"github.com/google/jsonapi"

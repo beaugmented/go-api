@@ -6,14 +6,14 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/eyecuelab/go-api/cmd/api/handlers"
-	"github.com/eyecuelab/go-api/cmd/api/routes"
+	_ "github.com/beaugmented/go-api/cmd/api/handlers"
+	"github.com/beaugmented/go-api/cmd/api/routes"
 
-	"github.com/eyecuelab/go-api/cmd/middleware"
-	"github.com/eyecuelab/go-api/cmd/storage"
-	"github.com/eyecuelab/go-api/internal/models"
+	"github.com/beaugmented/go-api/cmd/middleware"
+	"github.com/beaugmented/go-api/cmd/storage"
+	"github.com/beaugmented/go-api/internal/models"
 
-	// "github.com/eyecuelab/go-api/internal/notifications/email"
+	// "github.com/beaugmented/go-api/internal/notifications/email"
 	"github.com/spf13/cobra"
 
 	api "github.com/eyecuelab/kit/cmd/api"

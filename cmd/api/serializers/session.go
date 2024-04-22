@@ -1,7 +1,7 @@
 package serializers
 
 import (
-	"github.com/eyecuelab/go-api/internal/models"
+	"github.com/beaugmented/go-api/internal/models"
 	"github.com/eyecuelab/kit/web/meta"
 	"github.com/google/jsonapi"
 )

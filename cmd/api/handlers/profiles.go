@@ -3,7 +3,7 @@ package handlers
 import (
 	"github.com/eyecuelab/kit/brake"
 
-	"github.com/eyecuelab/go-api/cmd/middleware"
+	"github.com/beaugmented/go-api/cmd/middleware"
 	"github.com/eyecuelab/kit/db/psql"
 )
 

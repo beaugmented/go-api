@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/eyecuelab/go-api/cmd/storage"
+	"github.com/beaugmented/go-api/cmd/storage"
 	"github.com/eyecuelab/kit/config"
 	"github.com/eyecuelab/kit/db/psql"
 	"github.com/eyecuelab/kit/log"

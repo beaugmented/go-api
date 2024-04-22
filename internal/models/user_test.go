@@ -3,7 +3,7 @@ package models_test
 import (
 	"testing"
 
-	"github.com/eyecuelab/go-api/internal/models"
+	"github.com/beaugmented/go-api/internal/models"
 	"github.com/stretchr/testify/assert"
 )
 

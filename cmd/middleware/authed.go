@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/eyecuelab/go-api/internal/models"
+	"github.com/beaugmented/go-api/internal/models"
 	"github.com/eyecuelab/kit/web"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"

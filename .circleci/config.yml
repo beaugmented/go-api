@@ -1,9 +1,9 @@
 env: &env
   DATABASE_URL: "postgres://postgres@localhost:5432/go_api_test?sslmode=disable"
-  APP_WORKING_DIR: "/home/circleci/go/src/github.com/eyecuelab/go-api"
+  APP_WORKING_DIR: "/home/circleci/go/src/github.com/beaugmented/go-api"
 
 defaults: &defaults
-  working_directory: /home/circleci/go/src/github.com/eyecuelab/go-api
+  working_directory: /home/circleci/go/src/github.com/beaugmented/go-api
   docker:
     - image: cimg/go:1.17.6
 
@@ -16,10 +16,10 @@ jobs:
       - save_cache:
           key: cache-repo-{{ .Environment.CIRCLE_SHA1 }}
           paths:
-            - /home/circleci/go/src/github.com/eyecuelab/go-api
+            - /home/circleci/go/src/github.com/beaugmented/go-api
 
   test:
-    working_directory: /home/circleci/go/src/github.com/eyecuelab/go-api
+    working_directory: /home/circleci/go/src/github.com/beaugmented/go-api
     docker:
       - image: cimg/go:1.17.6
       - image: cimg/postgres:13.5-postgis

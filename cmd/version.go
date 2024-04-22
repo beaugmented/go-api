@@ -4,7 +4,7 @@ import (
 	"github.com/eyecuelab/kit/cmd"
 	"github.com/eyecuelab/kit/log"
 
-	"github.com/eyecuelab/go-api/version"
+	"github.com/beaugmented/go-api/version"
 	"github.com/spf13/cobra"
 )
 

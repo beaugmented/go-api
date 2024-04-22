@@ -2,8 +2,8 @@ package api
 
 import (
 	"github.com/eyecuelab/kit/web/server"
-	"github.com/eyecuelab/go-api/cmd/api/routes"
-	"github.com/eyecuelab/go-api/cmd/middleware"
+	"github.com/beaugmented/go-api/cmd/api/routes"
+	"github.com/beaugmented/go-api/cmd/middleware"
 	"github.com/spf13/cobra"
 )
 

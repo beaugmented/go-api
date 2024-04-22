@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/eyecuelab/go-api/cmd/admin/serializers"
-	"github.com/eyecuelab/go-api/cmd/middleware"
-	"github.com/eyecuelab/go-api/internal/models"
+	"github.com/beaugmented/go-api/cmd/admin/serializers"
+	"github.com/beaugmented/go-api/cmd/middleware"
+	"github.com/beaugmented/go-api/internal/models"
 	"github.com/eyecuelab/kit/web"
 	"github.com/labstack/echo"
 )

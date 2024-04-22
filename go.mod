@@ -1,4 +1,4 @@
-module github.com/eyecuelab/go-api
+module github.com/beaugmented/go-api
 
 go 1.17
 
